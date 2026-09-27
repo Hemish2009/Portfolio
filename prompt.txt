@@ -1,0 +1,791 @@
+You are a senior product designer and frontend engineer.
+
+Build a premium, conversion-focused personal portfolio website for:
+
+Name: Hemish Gudapati
+Role: Web Designer & Developer
+Primary service: Premium websites and landing pages for service businesses
+Technology: Next.js + TypeScript + Tailwind CSS
+Deployment target: Vercel
+
+IMPORTANT:
+This is NOT a generic developer portfolio.
+It is a professional sales website for a freelance web designer/developer who wants to acquire international clients.
+
+The website should communicate:
+"Premium websites that turn visitors into customers."
+
+The design should feel like a high-end modern web agency/product studio, while still being clearly a personal business.
+
+==================================================
+BRAND POSITIONING
+==================================================
+
+Primary headline:
+
+"Websites that turn visitors into customers."
+
+Supporting text:
+
+"Premium, conversion-focused websites for service businesses."
+
+Additional positioning:
+
+"Design · Development · Strategy"
+
+The target clients are primarily English-speaking service businesses in the US, UK, Canada and Australia.
+
+Initial target industries:
+- Landscaping
+- Pressure washing
+- Cleaning
+- Auto detailing
+- Roofing
+- HVAC
+- Plumbing
+- Remodeling / construction
+
+Do NOT make the website look specific to these industries. It should feel like a premium web studio capable of serving different service businesses.
+
+==================================================
+VISUAL DIRECTION
+==================================================
+
+Design direction:
+
+70% premium/minimal
+30% conversion-focused
+
+The visual language should feel:
+- Premium
+- Modern
+- Confident
+- Clean
+- Editorial
+- Sophisticated
+- Commercial
+- Trustworthy
+- Slightly experimental but highly usable
+
+Think high-end digital agency / product studio rather than a typical freelancer portfolio.
+
+Use:
+- Large confident typography
+- Strong visual hierarchy
+- Generous whitespace
+- Strong grid system
+- Large project imagery
+- Elegant cards
+- Subtle borders
+- Restrained shadows
+- Subtle gradients only when useful
+- Excellent spacing
+- Smooth transitions
+- Subtle reveal animations
+- Sophisticated hover states
+
+Avoid:
+- Neon colors
+- Excessive gradients
+- Cyberpunk aesthetics
+- Excessive glassmorphism
+- Excessive 3D
+- Huge decorative blobs
+- Overly rounded "SaaS template" cards
+- Excessive animations
+- Spinning elements
+- Skill bars
+- Fake statistics
+- Fake client logos
+- Fake testimonials
+- Fake awards
+- Fake reviews
+- Fake conversion numbers
+- Generic "Hi, I'm Hemish 👋" developer portfolio language
+
+The design must look expensive without relying on visual gimmicks.
+
+==================================================
+COLOR SYSTEM
+==================================================
+
+Use a restrained neutral palette.
+
+Default:
+- Off-white / near-white background
+- Near-black text
+- Soft gray secondary text
+- Very subtle borders
+
+Use ONE restrained accent color throughout the interface.
+
+The accent should be sophisticated, not neon.
+
+Ensure WCAG-friendly contrast.
+
+Do not use multiple competing accent colors.
+
+Support dark sections where appropriate, especially for the final CTA.
+
+==================================================
+TYPOGRAPHY
+==================================================
+
+Use a premium modern sans-serif font.
+
+Typography hierarchy should be strong.
+
+Hero headline:
+Very large desktop typography, approximately 72–96px depending on viewport.
+
+Section headings:
+Approximately 48–64px.
+
+Body:
+Approximately 16–19px.
+
+Use tight but readable heading line-height.
+
+Do not make everything bold.
+
+Use font weight and whitespace to create hierarchy.
+
+==================================================
+NAVIGATION
+==================================================
+
+Create a clean sticky navigation.
+
+Left:
+Hemish Gudapati
+
+Center/right:
+Work
+Services
+About
+Contact
+
+Primary CTA:
+"Start a project"
+
+On mobile:
+Use a clean hamburger menu.
+
+Navigation should remain minimal.
+
+Do not create a huge navbar.
+
+==================================================
+HERO SECTION
+==================================================
+
+Hero headline:
+
+"Websites that turn visitors into customers."
+
+Supporting copy:
+
+"Premium, conversion-focused websites for service businesses."
+
+Secondary line:
+
+"Design · Development · Strategy"
+
+Primary CTA:
+"Start a project"
+
+Secondary CTA:
+"View my work"
+
+Hero visual:
+Use a large premium website mockup / browser mockup showing a fictional service-business website.
+
+The visual should look like a real website rather than a random abstract image.
+
+Do NOT use a photo of Hemish.
+
+The hero should immediately communicate:
+1. What Hemish does
+2. Who he helps
+3. That the work is premium
+4. That there is a clear next step
+
+Add subtle entrance animation, but keep it fast and professional.
+
+==================================================
+TRUST / INTRO STRIP
+==================================================
+
+Immediately below the hero, add a restrained trust/positioning strip.
+
+Copy:
+
+"Web design for businesses that want to look credible, communicate clearly, and generate more enquiries."
+
+Keep this section visually simple.
+
+Do not invent client logos or statistics.
+
+==================================================
+FEATURED WORK
+==================================================
+
+Section label:
+"Selected work"
+
+Section heading:
+"Built for real businesses."
+
+Featured project:
+
+Seshadri Bapulapadu FPO
+
+Category:
+"Business Website · Agriculture · India"
+
+Description:
+
+"A modern digital presence for an agricultural organization serving farmers across Bapulapadu Mandal and surrounding villages."
+
+Show a large website mockup / screenshot area.
+
+Add project metadata:
+
+Role:
+"Design & Development"
+
+Focus:
+"Business website · Information architecture · Responsive development · Enquiry experience"
+
+Use a CTA:
+
+"View case study"
+
+IMPORTANT:
+Do not claim fake performance metrics or fabricated business results.
+
+This is a real project, but only state things that can be truthfully supported.
+
+==================================================
+CASE STUDY PREVIEW
+==================================================
+
+Create a compact case-study panel below the featured project.
+
+Title:
+"From information to action."
+
+Copy:
+
+"The goal was to create a professional online presence that makes the organization's products, services and contact information easier to understand and access."
+
+Show three small feature items:
+
+01
+"Clear information architecture"
+
+02
+"Responsive business experience"
+
+03
+"Accessible enquiry paths"
+
+Do not fabricate numerical results.
+
+==================================================
+MORE WORK
+==================================================
+
+Section label:
+"More work"
+
+Heading:
+"Different businesses. Same principle."
+
+Create three premium project cards.
+
+PROJECT 01
+
+Title:
+"Landscaping"
+
+Label:
+"Concept project"
+
+Description:
+"A premium service-business website concept designed around local search, trust and quote requests."
+
+PROJECT 02
+
+Title:
+"Cleaning"
+
+Label:
+"Concept project"
+
+Description:
+"A conversion-focused landing page concept designed to make services, credibility and quote requests immediately clear."
+
+PROJECT 03
+
+Title:
+"Auto Detailing"
+
+Label:
+"Concept project"
+
+Description:
+"A visual-first service website concept built to showcase work and drive appointment enquiries."
+
+IMPORTANT:
+Clearly identify all three as "Concept projects".
+
+Never imply these are real clients.
+
+Each card should have:
+- Large visual
+- Project title
+- Category
+- Short description
+- "View project" interaction
+
+Use sophisticated hover animations.
+
+==================================================
+CORE DIFFERENTIATOR
+==================================================
+
+Section heading:
+
+"Not just a good-looking website."
+
+Supporting text:
+
+"Your website has a job to do."
+
+Then create three large columns/cards.
+
+01 — Strategy
+
+"Understand what potential customers need to know before they contact you."
+
+02 — Design
+
+"Create a premium visual experience that communicates credibility and makes the business memorable."
+
+03 — Conversion
+
+"Guide visitors toward the next action — enquiry, quote, booking or contact."
+
+This section should communicate that Hemish understands business outcomes, not just frontend development.
+
+==================================================
+SERVICES
+==================================================
+
+Section label:
+"Services"
+
+Heading:
+"Built around what your business needs."
+
+SERVICE 01
+
+Title:
+"Landing Pages"
+
+Description:
+"Focused pages designed around a specific service, offer or campaign."
+
+Price:
+"From $199"
+
+Include:
+- Custom design
+- Responsive development
+- Strong CTA structure
+- Contact / quote form
+- Basic SEO
+- Deployment
+
+CTA:
+"Discuss a landing page"
+
+SERVICE 02
+
+Title:
+"Business Websites"
+
+Description:
+"Complete websites designed to establish credibility and make it easier for potential customers to enquire."
+
+Price:
+"From $399"
+
+Include:
+- 5–7 pages
+- Custom design
+- Responsive development
+- Contact forms
+- Basic SEO
+- Analytics setup
+- Deployment
+
+CTA:
+"Discuss a website"
+
+SERVICE 03
+
+Title:
+"Custom Websites"
+
+Description:
+"For businesses that need functionality beyond a standard marketing website."
+
+Price:
+"From $699"
+
+Examples:
+- CMS
+- Booking systems
+- Dynamic listings
+- Custom integrations
+- Advanced functionality
+
+CTA:
+"Discuss a custom project"
+
+Do not make pricing visually dominant.
+
+==================================================
+PROCESS
+==================================================
+
+Section label:
+"Process"
+
+Heading:
+
+"A simple process. No unnecessary complexity."
+
+Create six steps.
+
+01 — Discover
+
+"We understand your business, audience and goals."
+
+02 — Plan
+
+"We define the structure, messaging and conversion path."
+
+03 — Design
+
+"You review the visual direction before development."
+
+04 — Build
+
+"The approved direction becomes a responsive website."
+
+05 — Refine
+
+"You review the finished experience within the agreed revision rounds."
+
+06 — Launch
+
+"We test, deploy and make the website live."
+
+Use a sophisticated timeline/grid rather than generic numbered cards.
+
+==================================================
+ABOUT
+==================================================
+
+Section label:
+"About"
+
+Heading:
+
+"I'm Hemish."
+
+Copy:
+
+"I'm a web designer and developer focused on creating modern websites for service businesses.
+
+I combine visual design, responsive development and conversion-focused structure to build websites that look professional and make it easier for potential customers to take action."
+
+Additional line:
+
+"Based in India · Working with businesses worldwide"
+
+Keep this section concise.
+
+Do NOT mention:
+- Age
+- College
+- Need for money
+- Financial situation
+- Being a beginner
+- Lack of clients
+- Any insecurity
+
+The client is buying the service, not the backstory.
+
+==================================================
+TECHNOLOGY
+==================================================
+
+Section label:
+"Technology"
+
+Heading:
+
+"Built with modern web technology."
+
+Show:
+
+Next.js
+React
+TypeScript
+Tailwind CSS
+Git
+Vercel
+
+Keep this section visually small.
+
+Do not turn the portfolio into a developer resume.
+
+==================================================
+FINAL CTA
+==================================================
+
+Use a visually strong dark/contrasting section.
+
+Headline:
+
+"Your next customer could be one click away."
+
+Supporting copy:
+
+"Let's build a website that gives potential customers a reason to choose you."
+
+Primary CTA:
+
+"Start a project"
+
+Secondary option:
+
+"Email Hemish"
+
+Make this section visually memorable but not gimmicky.
+
+==================================================
+CONTACT
+==================================================
+
+Create a simple project enquiry form.
+
+Fields:
+
+Name
+Business name
+Email
+Website (optional)
+What does your business do?
+What do you need?
+Estimated budget
+Message
+
+Budget options:
+- Under $250
+- $250–$500
+- $500–$1,000
+- $1,000+
+
+Submit button:
+"Send project enquiry"
+
+Do not implement a fake form submission.
+
+For now, create a clean frontend form with proper validation and a clear placeholder for the future backend/email integration.
+
+==================================================
+FOOTER
+==================================================
+
+Hemish Gudapati
+
+Web Design · Development · Strategy
+
+Links:
+Work
+Services
+About
+Contact
+
+Footer text:
+
+"© 2026 Hemish Gudapati. All rights reserved."
+
+Do not add fake social media accounts.
+
+==================================================
+UX REQUIREMENTS
+==================================================
+
+The website must be:
+
+- Fully responsive
+- Mobile-first
+- Keyboard accessible
+- Accessible with good contrast
+- Fast loading
+- Semantic HTML
+- SEO-friendly
+- Proper metadata
+- Proper heading hierarchy
+- Optimized images
+- No layout shifts where avoidable
+- Smooth scrolling
+- Respect prefers-reduced-motion
+
+Navigation must work correctly.
+
+All buttons must have clear destinations or interaction behavior.
+
+No dead links.
+
+No fake functionality.
+
+==================================================
+ANIMATION
+==================================================
+
+Use subtle motion only.
+
+Examples:
+- Fade/slide reveal on scroll
+- Image scale on hover
+- Slight card translation
+- Smooth navigation transitions
+- Button hover states
+- Project image transitions
+
+Animation should feel:
+"expensive and intentional"
+
+NOT:
+"look at all the animations I can code."
+
+Respect prefers-reduced-motion.
+
+==================================================
+RESPONSIVE BEHAVIOR
+==================================================
+
+Desktop:
+Large typography, generous whitespace, strong project visuals.
+
+Tablet:
+Reduce typography and spacing appropriately.
+
+Mobile:
+Do not simply shrink the desktop design.
+
+Recompose sections where necessary.
+
+Hero must remain powerful without requiring excessive scrolling.
+
+Cards should become a clean vertical layout.
+
+Navigation becomes a mobile menu.
+
+Buttons should be easy to tap.
+
+==================================================
+SEO
+==================================================
+
+Page title:
+
+"Hemish Gudapati — Web Designer & Developer"
+
+Meta description:
+
+"Premium, conversion-focused websites for service businesses. Design, development and strategy by Hemish Gudapati."
+
+Use proper Open Graph metadata.
+
+Use semantic headings.
+
+Do not keyword-stuff.
+
+==================================================
+CODE QUALITY
+==================================================
+
+Use:
+
+Next.js
+TypeScript
+Tailwind CSS
+
+Create reusable components.
+
+Suggested structure:
+
+components/
+  Navbar
+  Hero
+  TrustStrip
+  FeaturedWork
+  ProjectCard
+  Differentiator
+  Services
+  Process
+  About
+  TechStack
+  FinalCTA
+  Contact
+  Footer
+
+Keep the code clean and maintainable.
+
+Avoid unnecessary dependencies.
+
+Do not add a database.
+
+Do not add authentication.
+
+Do not add a CMS.
+
+Do not add a blog.
+
+Do not over-engineer.
+
+==================================================
+MOST IMPORTANT DESIGN PRINCIPLE
+==================================================
+
+The website must feel like the website of someone who could reasonably charge $400–$700 for a business website.
+
+It should NOT feel like:
+- a student project
+- a coding tutorial
+- a generic Framer template
+- a SaaS dashboard
+- a developer resume
+- an AI-generated website full of meaningless gradients
+
+Every section should answer one of these questions:
+
+1. What does Hemish do?
+2. Who does he help?
+3. Is his work actually good?
+4. Does he understand business goals?
+5. What does he offer?
+6. How does the process work?
+7. How do I contact him?
+
+If a visual or section does not help answer one of those questions, remove it.
+
+Build the complete polished frontend now.
